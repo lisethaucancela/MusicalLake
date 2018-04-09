@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Llake;
+package Lake;
 
 import Lake.Song;
 import java.util.ArrayList;
